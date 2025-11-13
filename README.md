@@ -1,1 +1,1 @@
-# T-cnicas-de-Amostragem---C-digos
+# Tecnicas-de-Amostragem-Codigos
